@@ -6,4 +6,12 @@ module.exports = withPWA({
 		dest: 'public',
 		runtimeCaching,
 	},
+	images: {
+        domains: ["apod.nasa.gov"]
+    },
+	experimental: { appDir: true },
+  webpack(config) {
+    config.experiments = { ...config.experiments, topLevelAwait: true }
+    return config
+  },
 })

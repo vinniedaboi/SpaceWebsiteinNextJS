@@ -11,12 +11,11 @@ const Page = ({ title, children }: Props) => (
 	<>
 		{title ? (
 			<Head>
-				<title>Rice Bowl | {title}</title>
+				<title>Space Everything | {title}</title>
 			</Head>
 		) : null}
 
 		<Appbar />
-
 		<main
 			/**
 			 * Padding top = `appbar` height
