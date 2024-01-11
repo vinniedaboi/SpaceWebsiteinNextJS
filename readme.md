@@ -6,6 +6,8 @@ Welcome to the SpaceWebsiteInNextJs project! 🚀
 
 This project is a space-related site that provides the latest space news, showcases the Astronomy Picture of the Day, and offers information about space activities. Built with Next.js, it offers a responsive and dynamic web experience.
 
+Preview the site [here](https://space-websitein-next-js.vercel.app)
+
 ## Author
 
 - **Author:** Vinnie
