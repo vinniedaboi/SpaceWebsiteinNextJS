@@ -14,7 +14,7 @@ This project is a space-related site that provides the latest space news, showca
 
 ## Updates
 
-# Update 1.1
+### Update 1.1
 
 - Commented out API because Vercel doesn't allow HTTP API connections
 - Replaced ISS where API with another one.
