@@ -42,4 +42,4 @@ To get started with the project, follow these steps:
 
 ## Currently Working On
 
-   - Changing the activity API to something that has HTTPS connection so it can be hosted on vercel
+   - Changing the activity API to something that has HTTPS connection so it can be hosted on Vercel
