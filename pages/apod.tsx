@@ -6,7 +6,8 @@ import { useState } from "react";
 import Link from 'next/link';
 import useSWR, { mutate } from "swr";
 
-const fetcher = (...args) => fetch(...args).then((res) => res.text());
+const fetcher = (...args: Parameters<typeof fetch>) =>
+  fetch(...args).then((res) => res.text());
 
 // api key: 1ZlmFRRg3cy0kHaWOjUjfqAkg7Nl6fNwlyOMeDvW
 

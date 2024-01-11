@@ -4,7 +4,6 @@ import { useRouter } from 'next/router'
 const links = [
 	{ label: 'Activity', href: '/activity' },
 	{ label: 'APOD', href: '/apod' },
-	{ label: 'Mars', href:'/mars'}
 ]
 
 const Appbar = () => {

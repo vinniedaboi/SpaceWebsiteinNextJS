@@ -7,8 +7,14 @@ module.exports = withPWA({
 		runtimeCaching,
 	},
 	images: {
-        domains: ["apod.nasa.gov"]
-    },
+    domains: [
+      "i0.wp.com",
+      "apod.nasa.gov",
+      "cdn.arstechnica.net",
+      "spacepolicyonline.com",
+      "image.cnbcfm.com"
+    ],
+  },
 	experimental: { appDir: true },
   webpack(config) {
     config.experiments = { ...config.experiments, topLevelAwait: true }
