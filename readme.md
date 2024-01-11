@@ -39,3 +39,7 @@ To get started with the project, follow these steps:
    ```bash
    npm run dev
    ```
+
+## Currently Working On
+
+   - Changing the activity API to something that has HTTPS connection so it can be hosted on vercel
