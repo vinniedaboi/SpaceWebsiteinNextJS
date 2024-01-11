@@ -11,6 +11,15 @@ This project is a space-related site that provides the latest space news, showca
 - **Author:** Vinnie
 - **Contact:** [vinnie5224@gmail.com](mailto:vinnie5224@gmail.com)
 
+
+## Updates
+
+# Update 1.1
+
+- Commented out API because Vercel doesn't allow HTTP API connections
+- Replaced ISS where API with another one.
+
+
 ## Features
 
 - 🌌 Space News: Stay updated with the latest space-related news.
@@ -20,6 +29,8 @@ This project is a space-related site that provides the latest space news, showca
 ## Technologies Used
 
 This project is built using [Next.js](https://nextjs.org/), a React framework for building server-rendered React applications.
+
+APIS used are [Where is the ISS at?](https://api.wheretheiss.at), a simple API that returns the location of the ISS and the [APOD API](https://api.nasa.gov/), which returns a daily Image and a short description.
 
 ## Getting Started
 
