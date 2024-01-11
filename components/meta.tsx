@@ -28,7 +28,7 @@ const Meta = () => (
 			content='width=device-width, initial-scale=1, user-scalable=0, viewport-fit=cover'
 		/>
 		<link rel='apple-touch-icon' href='/images/icon-maskable-512.png' />
-		<link rel='icon' type='image/png' href='/images/iss.png' />
+		<link rel='icon' type='image/png' href='/images/iss.jpg' />
 		<link rel='manifest' href='/manifest.json' />
 	</Head>
 )
