@@ -34,6 +34,7 @@ This project is built using [Next.js](https://nextjs.org/), a React framework fo
 
 APIS used are [Where is the ISS at?](https://api.wheretheiss.at), a simple API that returns the location of the ISS and the [APOD API](https://api.nasa.gov/), which returns a daily Image and a short description.
 
+I used a [Next-PWA-template](https://github.com/mvllow/next-pwa-template)
 ## Getting Started
 
 To get started with the project, follow these steps:
